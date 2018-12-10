@@ -1,0 +1,50 @@
+Topic,Title,Link
+ML,Machine-learning-assisted materials discovery using failed experiments,http://www.nature.com/nature/journal/v533/n7601/full/nature17439.html
+ML,The NIPS'17 Competition: A Multi-View Ensemble Classification Model for Clinically Actionable Genetic Mutations,https://arxiv.org/abs/1806.09737
+DNN,Deep learning of the tissue-regulated splicing code,http://www.psi.toronto.edu/publications/2014/DeepSplicingCode.pdf
+DNN,Massively Multitask Networks for Drug Discovery,https://arxiv.org/abs/1502.02072
+DNN,Multi-task Neural Networks for QSAR Predictions,https://arxiv.org/abs/1406.1231
+DNN,DeepTox: Toxicity Prediction using Deep Learning,http://www.bioinf.jku.at/research/DeepTox/
+DNN,"DeepLNC, a long non-coding RNA prediction tool using deep neural network",https://link.springer.com/article/10.1007%2Fs13721-016-0129-2
+DNN,Removal of batch effects using distribution-matching residual networks,https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btx196/3611270/Removal-of-Batch-Effects-using-Distribution
+DNN,Integrative Deep Models for Alternative Splicing,http://www.biorxiv.org/content/early/2017/01/31/104869
+DNN,Deep Learning in Label-free Cell Classification,https://www.nature.com/articles/srep21471
+DNN,DANN: a deep learning approach for annotating the pathogenicity of genetic variants.,https://www.ncbi.nlm.nih.gov/pubmed/25338716
+DNN,Deep Spatio-Temporal Architectures and Learning for Protein Structure Prediction,https://papers.nips.cc/paper/4526-deep-spatio-temporal-architectures-and-learning-for-protein-structure-prediction
+DNN/AE,Deep Learning for Population Genetic Inference,http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004845
+AE,Unsupervised feature construction and knowledge extraction from genome-wide assays of breast cancer with denoising autoencoders.,https://www.ncbi.nlm.nih.gov/pubmed/25592575
+AE,"Learning structure in gene expression data using deep architectures, with an application to gene clustering",http://www.biorxiv.org/content/early/2015/11/16/031906
+AE,Deep Learning based multi-omics integration robustly predicts survival in liver cancer,http://www.biorxiv.org/content/early/2017/03/08/114892
+AE,ADAGE analysis of publicly available gene expression data collections illuminates Pseudomonas aeruginosa-host interactions,http://www.biorxiv.org/content/early/2015/11/05/030650
+AE,miRAW: A deep learning approach to predict miRNA targets by analyzing whole miRNA transcripts,https://www.biorxiv.org/content/early/2017/11/16/220483
+AE/RBM (kind of),Representation Learning: A Unified Deep Learning Framework for Automatic Prostate MR Segmentation,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3939619/
+RBM,Partitioned learning of deep Boltzmann machines for SNP data,http://www.biorxiv.org/content/early/2016/12/20/095638
+RBM,A deep learning framework for modeling structural features of RNA-binding protein targets.,https://www.ncbi.nlm.nih.gov/pubmed/26467480
+CNN,Mitosis detection in breast cancer histology images with deep neural networks.,http://people.idsia.ch/~juergen/miccai2013.pdf
+CNN,Dermatologist-level classification of skin cancer with deep neural networks,http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html
+CNN,U-Net: Convolutional Networks for Biomedical Image Segmentation,https://arxiv.org/abs/1505.04597
+CNN,Basset: learning the regulatory code of the accessible genome with deep convolutional neural networks,http://genome.cshlp.org/content/26/7/990
+CNN,DeepVariant: Creating a universal SNP and small indel variant caller with deep neural networks,http://biorxiv.org/content/early/2016/12/21/092890
+CNN,DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning,http://www.nature.com/nbt/journal/v33/n8/full/nbt.3300.html
+CNN,Deep Motif: Visualizing Genomic Sequence Classifications,https://arxiv.org/abs/1605.01133
+CNN,Convolutional neural network architectures for predicting DNA–protein binding,https://academic.oup.com/bioinformatics/article/32/12/i121/2240609/Convolutional-neural-network-architectures-for
+CNN,Predicting the impact of non-coding variants on DNA methylation,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx177
+CNN,DeepChrome: deep-learning for predicting gene expression from histone modifications,https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw427
+CNN,Sensitive detection of rare disease-associated cell subsets via representation learning.,http://www.biorxiv.org/content/early/2016/03/31/046508
+CNN,HLA class I binding prediction via convolutional neural networks,http://www.biorxiv.org/content/early/2017/04/13/099358
+CNN,Protein Secondary Structure Prediction Using Deep Convolutional Neural Fields.,https://www.ncbi.nlm.nih.gov/pubmed/26752681
+CNN,Deep convolutional neural networks for annotating gene expression patterns in the mouse brain,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0553-9
+CNN,Deepmind Eye Disease,https://deepmind.com/blog/moorfields-major-milestone/
+CNN,Discovering epistatic feature interactions from neural network models of regulatory DNA sequences,https://www.biorxiv.org/node/93042.full
+GAN,DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning,https://arxiv.org/abs/1612.03211
+GAN,Medical Image Synthesis with Context-Aware Generative Adversarial Networks,https://arxiv.org/abs/1612.05362
+GAN,Generative Adversarial Network for Medical Images (MI-GAN),https://arxiv.org/abs/1810.00551
+RNN,Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks,https://arxiv.org/abs/1701.01329
+RNN,Deep Architectures and Deep Learning in Chemoinformatics: The Prediction of Aqueous Solubility for Drug-Like Molecules,http://pubs.acs.org/doi/abs/10.1021/ci400187y
+RNN,Deep Recurrent Neural Network for Protein Function Prediction from Sequence,http://www.biorxiv.org/content/early/2017/01/28/103994
+RNN+CNN,Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures,https://arxiv.org/abs/1605.07156
+RNN+CNN,DeepCpG: Accurate prediction of single-cell DNA methylation states using deep learning,http://biorxiv.org/content/early/2017/02/01/055715
+RNN+CNN,DeeperBind: Enhancing Prediction of Sequence Specificities of DNA Binding Proteins,https://arxiv.org/abs/1611.05777
+RNN+CNN,DanQ: a hybrid convolutional and recurrent network for quantifying the function of DNA sequences ,http://www.gitxiv.com/posts/aqrWwLoyg75jqNAYX/danq-a-hybrid-convolutional-and-recurrent-deep-neural
+RNN+CNN,TITER: predicting translation initiation sites by deep learning,http://www.biorxiv.org/content/early/2017/05/12/103374
+RNN+VAE,Automatic chemical design using a data-driven continuous representation of molecules,https://arxiv.org/abs/1610.02415
