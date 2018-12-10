@@ -6,7 +6,7 @@ The course was taught Fall 2018 at Higher School of Economics (Moscow), Faculty 
 
 ## The contents
 * Course [slides](slides)
-* Course Jypiter [notebooks](notebooks) (using Keras)
+* Course Jupyter [notebooks](notebooks) (using Keras)
 * [List of articles](Journal%20Club%20Papers%202018.csv) for Journal club
 
 ## Syllabus
